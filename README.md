@@ -1,17 +1,16 @@
-# Techmely UI
+# Starly UI
 
-Mely UI target to enterprise who want to unify the FE tech-stack, specially to Design System.
+Starly UI target to enterprise who want to unify the FE tech-stack for cross-platform, specially to Design System.
 Here is some the feature highlights:
 
 - 💎 **High-quality**, **accessible** design systems with the serious checklist each components
 - 🧩 **Framework Agnostic**: Base on Web Components(Lit) - So anyone, any projects can use this with confident and scale
 - Support CDNs
 - Support Localization
-- Fully customize with CSS, Tailwind, UnoCss
 - Official support Dark 🌜/ Light 🌞 Theme 
-- 🦄 Open sources & Backed by Techmely
+- 🦄 Open sources & Backed by Starly
 
-Techmely UI is designed and developed by [Harry Tran](https://github.com/techmely) and Techmely Core Team
+Starly UI is designed and developed by [Harry Tran](https://github.com/harrytran998) and Starly Core Team
 
 ## Folder Structure
 
@@ -35,7 +34,6 @@ Accessibility Checklist
 Accessibility Checklist
 - [x] Svg have role img
 - [x] Svg have default value for aria-label attribute(combine the library + icon name) and can change when fill whatever user want
-- [ ] 
 
 ### Communication
 
